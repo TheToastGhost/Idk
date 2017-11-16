@@ -1,10 +1,1 @@
-method main()
-{
-  Circle a = new Circle();
-
-
-
-
-
-}
-test
+Hi Server!
